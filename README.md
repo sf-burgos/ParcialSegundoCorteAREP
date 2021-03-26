@@ -65,7 +65,7 @@ Entregable:
 4. Video de menos de un minuto del funcionamiento (lo puede tomar con el celular una vez funcione)
 
 #### PARA VER LOS VIDEOS PORFAVOR IR A ESTE LINK Y DESCARGAR LOS DOS (2 VIDEOS)
-[click aqui](https://github.com/sf-burgos/ParcialSegundoCorteAREP/Resources/videos)
+[click aqui](https://github.com/sf-burgos/ParcialSegundoCorteAREP/tree/main/Resources/videos)
 
 
 
